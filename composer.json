@@ -1,0 +1,8 @@
+{
+    "name": "dps-software-srl/php-csrf-lib",
+    "autoload": {
+        "psr-4": {
+            "Dps\\": "src/"
+        }
+    }
+}
