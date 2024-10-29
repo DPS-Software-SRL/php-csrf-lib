@@ -1,5 +1,7 @@
 {
     "name": "dps-software-srl/php-csrf-lib",
+    "description": "CSRF lib",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Dps\\": "src/"
